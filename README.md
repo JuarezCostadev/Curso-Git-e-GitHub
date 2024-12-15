@@ -1,2 +1,2 @@
 # Curso Git e GitHub
- primeiros codigos
+ Primeiros códigos do Curso Git e GitHub
